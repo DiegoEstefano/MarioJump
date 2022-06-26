@@ -2,6 +2,9 @@
 Game made with  HTML, CSS and JS, you must jump with Mario make over the pipe. "Projeto do Manual do Dev" 
 still in development...
 
+[Click here to access
+](https://diegoestefano.github.io/MarioJump/)
+
 ![mario](https://user-images.githubusercontent.com/81423690/175833845-102e1e4b-21d8-47e0-9deb-2e24739a7821.jpg)
 
 
@@ -9,4 +12,4 @@ still in development...
 
 
 [Click here to access
-](https://diegoestefano.github.io/MarioJump/))
+](https://diegoestefano.github.io/MarioJump/)
